@@ -1,9 +1,9 @@
 # Image-Morphing-Results-Demo
-When running morphing algorithm with the tool on following images:
+##When running morphing algorithm with the tool on following images:##
 ![image](https://user-images.githubusercontent.com/74875627/203863541-3622f656-f1a3-4e8d-8cf3-fb9a4a83c9bd.png)
 ![image](https://user-images.githubusercontent.com/74875627/203863588-37d3ff3c-d537-4147-9a72-5f1aa2e027ad.png)
 
-We can have the following sequence of transformation:
+##We can have the following sequence of transformation:##
 ![image](https://user-images.githubusercontent.com/74875627/203863833-c0277375-96be-4a4f-a00d-8db5d0d686b0.png)
 ![image](https://user-images.githubusercontent.com/74875627/203863851-89220d2f-4abd-40a2-9608-b10effe8024c.png)
 ![image](https://user-images.githubusercontent.com/74875627/203863862-571190af-06f1-473f-baa9-a1bcada7a704.png)
